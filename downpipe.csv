@@ -1,87 +1,89 @@
 Country,Program,Total
-"Bahamas, The",Prevention Science,1
-Bangladesh,Biology,5
-Bangladesh,Biology: Computational and Integrative,1
-Bangladesh,Criminal Justice,1
-Belarus,Criminal Justice,1
-Brazil,Business and Science,1
-China,Biology: Computational and Integrative,1
-China,Criminal Justice,1
-China,Data Science,2
-China,Emerging Media,1
-China,History,1
-China,Liberal Studies,1
-"Egypt, Arab Republic of",Criminal Justice,1
-France,Chemistry,1
-"Gambia, The",Creative Writing,1
-Ghana,Biology,2
-Ghana,Chemistry,1
-Ghana,Computer Science,1
-Ghana,Data Science,2
-Ghana,Public Administration,3
-India,Biology,10
-India,Biology: Computational and Integrative,6
-India,Chemistry,2
-India,Childhood Studies,1
-India,Computer Science,33
-India,Creative Writing,1
-India,Data Science,44
-India,History,1
-India,Mathematical Sciences,1
-India,Psychology,1
-"Iran, Islamic Republic of",Biology,2
-"Iran, Islamic Republic of",Criminal Justice,1
-"Iran, Islamic Republic of",Data Science,1
-Jamaica,Criminal Justice,1
-Kenya,Biology: Computational and Integrative,1
-Kenya,Creative Writing,2
-Kenya,Data Science,1
-Kenya,Forensic Science,1
-Netherlands,Data Science,1
-Nigeria,Biology: Computational and Integrative,1
-Nigeria,Chemistry,1
-Nigeria,Childhood Studies,1
-Nigeria,Criminal Justice,3
-Nigeria,Data Science,1
-Nigeria,Public Affairs,3
-Pakistan,Biology,2
-Pakistan,Childhood Studies,1
-Pakistan,English,1
-Paraguay,Prevention Science,2
-Paraguay,Public Administration,1
-Philippines,Chemistry,1
-Puerto Rico (US),Prevention Science,1
-Qatar,Criminal Justice,1
-Saint Kitts and Nevis,Biology,1
-Saudi Arabia,Chemistry,1
-Somalia,Biology,1
-Sri Lanka,Biology: Computational and Integrative,1
-Switzerland,Biology,1
-Trinidad and Tobago,Chemistry,1
-Turkey,Prevention Science,1
-United Kingdom,Business and Science,1
-United Kingdom,Childhood Studies,1
-United Kingdom,Creative Writing,1
-United States of America,Biology,28
-United States of America,Biology: Computational and Integrative,36
-United States of America,Business and Science,2
-United States of America,Chemistry,14
-United States of America,Childhood Studies,18
-United States of America,Computer Science,9
-United States of America,Creative Writing,22
-United States of America,Criminal Justice,28
-United States of America,Data Science,12
-United States of America,Emerging Media,7
-United States of America,English,16
-United States of America,Forensic Science,20
-United States of America,History,38
-United States of America,Liberal Studies,69
-United States of America,Mathematical Sciences,18
-United States of America,Prevention Science,26
-United States of America,Psychology,29
-United States of America,Public Administration,88
-United States of America,Public Affairs,27
-United States of America,Teacher Education,103
-United States of America,Teacher Education - Spanish,20
-United States of America,Criminal Justice/Public Administration,3
-Uruguay,Business and Science,1
+Biology,Ghana,2
+Biology,India,10
+Biology,"Iran, Islamic Republic of",2
+Biology,Pakistan,2
+Biology,Saint Kitts and Nevis,1
+Biology,Somalia,1
+Biology,Switzerland,1
+Biology,United States of America,28
+Biology: Computational and Integrative,Bangladesh,5
+Biology: Computational and Integrative,China,1
+Biology: Computational and Integrative,India,6
+Biology: Computational and Integrative,Kenya,1
+Biology: Computational and Integrative,Nigeria,1
+Biology: Computational and Integrative,Sri Lanka,1
+Biology: Computational and Integrative,United States of America,36
+Business and Science,Bangladesh,1
+Business and Science,Brazil,1
+Business and Science,United Kingdom,1
+Business and Science,United States of America,2
+Chemistry,Ghana,1
+Chemistry,India,2
+Chemistry,Nigeria,1
+Chemistry,United States of America,14
+Childhood Studies,France,1
+Childhood Studies,India,1
+Childhood Studies,Nigeria,1
+Childhood Studies,Philippines,1
+Childhood Studies,Trinidad and Tobago,1
+Childhood Studies,United Kingdom,1
+Childhood Studies,United States of America,18
+Computer Science,India,33
+Computer Science,Pakistan,1
+Computer Science,United States of America,9
+Creative Writing,India,1
+Creative Writing,United Kingdom,1
+Creative Writing,United States of America,22
+Criminal Justice,Saudi Arabia,1
+Criminal Justice,United States of America,28
+Data Science,Bangladesh,1
+Data Science,Belarus,1
+Data Science,Ghana,1
+Data Science,India,44
+Data Science,Kenya,2
+Data Science,Nigeria,3
+Data Science,United States of America,12
+Emerging Media,Ghana,1
+Emerging Media,Netherlands,1
+Emerging Media,United States of America,7
+English,China,1
+English,Nigeria,1
+English,United States of America,16
+Forensic Science,Ghana,2
+Forensic Science,Jamaica,1
+Forensic Science,Kenya,1
+Forensic Science,Qatar,1
+Forensic Science,United States of America,20
+Forensic Science,Uruguay,1
+History,United States of America,38
+Liberal Studies,"Egypt, Arab Republic of",1
+Liberal Studies,United States of America,69
+Mathematical Sciences,"Gambia, The",1
+Mathematical Sciences,India,1
+Mathematical Sciences,Pakistan,1
+Mathematical Sciences,United States of America,18
+Prevention Science,"Bahamas, The",1
+Prevention Science,China,1
+Prevention Science,"Iran, Islamic Republic of",1
+Prevention Science,United States of America,26
+Psychology,China,2
+Psychology,India,1
+Psychology,"Iran, Islamic Republic of",1
+Psychology,Kenya,1
+Psychology,Nigeria,1
+Psychology,United States of America,29
+Public Administration,China,1
+Public Administration,Ghana,3
+Public Administration,United States of America,88
+Public Affairs,China,1
+Public Affairs,India,1
+Public Affairs,Nigeria,3
+Public Affairs,Paraguay,2
+Public Affairs,Puerto Rico (US),1
+Public Affairs,Turkey,1
+Public Affairs,United States of America,27
+Teacher Education,United States of America,103
+Teacher Education - Spanish,Paraguay,1
+Teacher Education - Spanish,United States of America,20
+Criminal Justice/Public Administration,United States of America,3
